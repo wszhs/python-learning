@@ -1,0 +1,11 @@
+[info]
+username = 1322939493@qq.com
+password = wszhs19941202ppp
+runtime  = 1
+
+[action]
+debug = true
+enroll = true
+evaluate = true
+select_bat = false
+
